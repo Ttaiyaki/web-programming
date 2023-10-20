@@ -7,7 +7,7 @@
 }
 
 span {
-    font-size: 64px;
+    font-size: 30px;
 }
 
 .fontsize {
@@ -22,6 +22,11 @@ span {
 
 .frame {
     margin: 40px 0px;
-    border: 2px blue solid;
+    border: 4px rgb(110, 66, 9) solid;
     padding: 50px 40 px;
+}
+
+.center-text {
+    text-align: center;
+    font-size: 18px;
 }
